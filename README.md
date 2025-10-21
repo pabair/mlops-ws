@@ -16,7 +16,9 @@ Für den Workshop sollten am besten folgende Vorbereitungen schon im Vorfeld get
 	conda install scikit-learn jupyter pandas
 	```
 5. Als Test: Das Jupyter-Notebook `1_Training.ipynb` öffnen und ausführen:
+
 	`jupyter notebook notebooks/1_Training.ipynb`
+	
 	Das sollte fehlerfrei durchlaufen.
 
 6. Innerhalb der Conda-Environment ML-Flow und Evidently installieren, mit dem Befehl:
