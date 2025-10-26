@@ -27,3 +27,5 @@ Für den Workshop sollten am besten folgende Vorbereitungen schon im Vorfeld get
 	`pip install mlflow evidently`
 
 7. Docker Desktop installieren: https://docs.docker.com/get-started/get-docker/
+
+8. (Optional) Einen kostenlosen Probe-Account bei GCP erstellen. https://cloud.google.com/
