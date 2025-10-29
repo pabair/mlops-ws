@@ -11,7 +11,7 @@ Für den Workshop sollten am besten folgende Vorbereitungen schon im Vorfeld get
 4. Neue Conda-Environment einrichten und packages installieren, mit den Befehlen:
 
 	```
-	conda create --name ml-ops-ws python=3.9
+	conda create --name ml-ops-ws python=3.11
 	conda activate ml-ops-ws
 	conda install scikit-learn jupyter pandas flask
 	```
