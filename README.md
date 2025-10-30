@@ -8,7 +8,7 @@ Für den Workshop sollten am besten folgende Vorbereitungen schon im Vorfeld get
 	`git clone https://github.com/pabair/mlops-ws.git`
 
 3. Conda installieren (https://www.anaconda.com/docs/getting-started/miniconda/install)
-4. Neue Conda-Environment einrichten und packages installieren, mit den Befehlen:
+4. Anaconda Prompt (oder Terminal auf Mac/Linux) öffnen, neue Conda-Environment einrichten und packages installieren, mit den Befehlen:
 
 	```
 	conda create --name ml-ops-ws python=3.11
