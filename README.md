@@ -29,3 +29,12 @@ Für den Workshop sollten am besten folgende Vorbereitungen schon im Vorfeld get
 7. Docker Desktop installieren: https://docs.docker.com/get-started/get-docker/
 
 8. (Optional) Einen kostenlosen Probe-Account bei GCP erstellen. https://cloud.google.com/
+
+Hinweis für Windows-User:
+Für Windows-User wird empfohlen die im ersten Schritt installierte GitBash als Terminal für den Workshop zu nutzen.
+Für die Nutzung mit Conda muss im Heimverzeichnis des WindowsNutzer die Datei .bash_profile mit folgendem Inhalt erstellt werden:
+
+	```
+	. "/c/Users/<username>/anaconda3/etc/profile.d/conda.sh"
+	conda activate base
+	```
