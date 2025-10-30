@@ -34,7 +34,7 @@ Hinweis für Windows-User:
 Für Windows-User wird empfohlen die im ersten Schritt installierte GitBash als Terminal für den Workshop zu nutzen.
 Für die Nutzung mit Conda muss im Heimverzeichnis des WindowsNutzer die Datei .bash_profile mit folgendem Inhalt erstellt werden:
 
-	```
+
 	. "/c/Users/<username>/anaconda3/etc/profile.d/conda.sh"
 	conda activate base
-	```
+
