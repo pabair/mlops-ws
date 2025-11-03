@@ -1,4 +1,4 @@
-curl http://127.0.0.1:5000/invocations \
+curl https://mlops-ws.onrender.com/invocations \
   -H "Content-Type:application/json" \
   --data '{
     "inputs": [

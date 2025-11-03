@@ -25,7 +25,7 @@ def predict():
     prediction_array = classifier.predict([data_point])
     prediction = int(prediction_array[0])
 
-    return jsonify({'prediction': prediction}), 201
+    return jsonify({'prediction': prediction}), 200
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
