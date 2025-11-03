@@ -1,5 +1,5 @@
 # MLOps Workshop 
-
+ 
 Für den Workshop sollten am besten folgende Vorbereitungen schon im Vorfeld getroffen werden:
 
 1. Git installieren (https://git-scm.com/install/)
