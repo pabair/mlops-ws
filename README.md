@@ -1,4 +1,4 @@
-# MLOps Workshop
+# MLOps Workshop 
 
 Für den Workshop sollten am besten folgende Vorbereitungen schon im Vorfeld getroffen werden:
 
